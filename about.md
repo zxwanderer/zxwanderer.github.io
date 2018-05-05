@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Погружение в spectrum
 permalink: /about/
 ---
 
-Some information about you!
+Посмотреть как оно там сподвиг меня этот ролик:
 
-### More Information
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCoMLeFqUo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-A place to include any other types of information that you'd like to include about yourself.
+### Спектрумисты сейчас
 
-### Contact me
+Картинка позаимствована из [vk.com/zxmemes](https://vk.com/zxmemes)
 
-[email@domain.com](mailto:email@domain.com)
+![My helpful screenshot]({{ "/images/demoscene.jpg" | absolute_url }})
