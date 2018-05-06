@@ -4,7 +4,7 @@ title: Погружение в spectrum
 permalink: /about/
 ---
 
-Посмотреть как оно там сподвиг меня этот ролик:
+О разработке на спектруме мне напомнил вот этот ролик:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KCoMLeFqUo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
