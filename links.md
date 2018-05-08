@@ -20,3 +20,8 @@ permalink: /links/
 [WANDERERS. Chained in the dark](http://samstyle.narod.ru/zxgams.html) - исходники игры наличествуют. О работе
 скриптового движка можно почитать статейку от автора в [Inferno Guide #11](http://zxpress.ru/article.php?id=18229).
 Или скачать сам [Inferno Guide #11](http://alonecoder.nedopc.com/zx/books/index.html) на сайте Alone Coder'а.
+
+### Программы для разработки
+
+[ZX-Modules](http://zx-modules.de/) - пакет программ для редактирования блоков отгрузки,
+zx-paintbrush для импорта и рисования графики.
