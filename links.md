@@ -12,6 +12,8 @@ permalink: /links/
 
 ["Unhinged" trackmo engine](http://hype.retroscene.org/blog/dev/275.html) - что называется "modern spectrum programming" %)
 
+[Let's make zx demo](http://zx-pk.ru/threads/28599-let-s-make-zx-demo.html) - азбука демосценерства от Шынни
+
 ### Исходники игр
 
 [Mighty Final Fight](http://idpixel.ru/games/mightyfinalfight/) - в архиве исходников несколько утилит на C#(!) для
