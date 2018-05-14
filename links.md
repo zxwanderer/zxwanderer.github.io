@@ -32,6 +32,8 @@ wiki по asm z80: [http://z80-heaven.wikidot.com/](http://z80-heaven.wikidot.co
 [Неожиданное путешествие](http://zx-pk.ru/threads/28310-quot-neozhidannoe-puteshestvie-quot-moya-igra-dlya-vas.html) - "Тургор" по-спектровски %)  Исходники можно найти [тут](http://zx-pk.ru/threads/28325-iskhodniki-quot-neozhidannogo-puteshestviya-quot.html) или скачать [отсюда]({{ site.baseurl }}/archive/trip_source.zip)
 в удобочитаемом виде, автор сам прислал.
 
+[ZXGate Visual Novel Engine for ZX Spectrum](https://bitbucket.org/vladkorotnev/zxgate/overview) - движок визуальных новелл
+
 ### Программы для разработки
 
 [ZX-Modules](http://zx-modules.de/) - пакет программ для редактирования блоков отгрузки,
