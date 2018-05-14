@@ -3,6 +3,10 @@ layout: page
 title: Интересные ссылки
 permalink: /links/
 ---
+### Полезное для z80
+
+![Сдвиги]({{ site.baseurl }}/images/shifts.png)
+via [scepticalinq](http://scepticalinq.blogspot.ru/2018/05/blog-post_12.html)
 
 ### Эмуляторы
 
