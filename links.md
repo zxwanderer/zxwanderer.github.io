@@ -6,7 +6,9 @@ permalink: /links/
 ### Полезное для z80
 
 ![Сдвиги]({{ site.baseurl }}/images/shifts.png)
-via [scepticalinq](http://scepticalinq.blogspot.ru/2018/05/blog-post_12.html)
+via [scepticalinq.blogspot.ru](http://scepticalinq.blogspot.ru/2018/05/blog-post_12.html)
+
+wiki по asm z80: [http://z80-heaven.wikidot.com/](http://z80-heaven.wikidot.com/)
 
 ### Эмуляторы
 
