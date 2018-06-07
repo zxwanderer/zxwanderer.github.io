@@ -10,6 +10,8 @@ via [scepticalinq.blogspot.ru](http://scepticalinq.blogspot.ru/2018/05/blog-post
 
 wiki по asm z80: [http://z80-heaven.wikidot.com/](http://z80-heaven.wikidot.com/)
 
+коды команд z80: [http://clrhome.org/table/](http://clrhome.org/table/)
+
 ### Эмуляторы
 
 [Unreal Speccy Portable](https://bitbucket.org/djdron/unrealspeccyp/wiki/Home)
