@@ -8,7 +8,7 @@ typora-root-url: ../../zxwanderer.github.io
 
 Вообще, конфиг **VSC** позволяет запускать при нажатии одной и той же комбинации клавиш разные файлы в зависимости от системы. Но пока только под MacOS, так как под Linux и Win надобности запускать не было.
 
-[Посмотреть на GitHub](https://github.com/RandomAmbersky/zx-boilerplate)
+[Посмотреть на GitHub](https://github.com/zxwanderer/zx-boilerplate)
 
 В папке bin лежат файловые утилиты которые я использовал при разработке движка, их исходники - в папке external_src, кроме sjasmplus, для него есть отдельный репозиторий у разработчика - [здесь](https://github.com/mkoloberdin/sjasmplus).
 
