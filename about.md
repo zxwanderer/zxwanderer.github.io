@@ -2,6 +2,7 @@
 layout: page
 title: Погружение в spectrum
 permalink: /about/
+typora-root-url: ../zxwanderer.github.io
 ---
 
 О разработке на спектруме мне напомнил вот этот ролик:
@@ -12,4 +13,4 @@ permalink: /about/
 
 Картинка позаимствована из [vk.com/zxmemes](https://vk.com/zxmemes)
 
-![My helpful screenshot]({{ "/images/demoscene.jpg" | absolute_url }})
+![My helpful screenshot](/images/demoscene.jpg)

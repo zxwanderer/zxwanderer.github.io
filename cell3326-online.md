@@ -12,7 +12,7 @@ permalink: /cell3326-online/
         onReady: function() {
           Module.requestFullScreen(true,true);
           document.querySelector("canvas").focus();
-          var url="/release/cell3326.tap";
+          var url="/release/cell3326.tap.zip";
           var result = Module.ccall('OpenFile', null, ['string'], [url]);
         },
         canvas: (function() {
@@ -21,7 +21,7 @@ permalink: /cell3326-online/
         })(),
         // setStatus: function(text) { }
       };
-
+    
           (function() {
             var memoryInitializer = '/release/unreal_speccy_portable.html.mem';
             if (typeof Module['locateFile'] === 'function') {
@@ -34,11 +34,11 @@ permalink: /cell3326-online/
             meminitXHR.responseType = 'arraybuffer';
             meminitXHR.send(null);
           })();
-
+    
           var script = document.createElement('script');
           script.src = "/release/unreal_speccy_portable.js";
           document.body.appendChild(script);
-
+    
           Module.requestFullScreen(false,true);document.querySelector('canvas').focus();
 
 </script>
