@@ -43,5 +43,5 @@ permalink: /links/
 
 ### Программы для разработки
 
-[ZX-Modules](http://zx-modules.de/) - пакет программ для редактирования блоков отгрузки,
+[ZX-Modules](https://www.spectrumforeveryone.co.uk/technical/zx-modules-software/) - пакет программ для редактирования блоков отгрузки,
 zx-paintbrush для импорта и рисования графики.
