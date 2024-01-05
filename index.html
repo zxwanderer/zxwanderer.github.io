@@ -16,3 +16,7 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
