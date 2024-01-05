@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 18StrokesCat AER music
+tags: 18strokescat
 ---
 
 Из копипасты с различных источников, помощи форума [codezx](http://codezx.mybb.ru/viewtopic.php?id=9#p76) и небольшого собственного кода ( переход по пунктам меню ) спрограммил проигрыватель мелодий для очередного альбома AER.

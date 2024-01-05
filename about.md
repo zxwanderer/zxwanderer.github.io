@@ -2,6 +2,7 @@
 layout: page
 title: Погружение в spectrum
 permalink: /about/
+tags: about
 ---
 
 ### Спектрумисты сейчас

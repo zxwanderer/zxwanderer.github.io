@@ -1,6 +1,7 @@
 ---
 layout: post
 title: zx-spectrum boilerplate
+tags: boilerplate
 ---
 
 Иногда хочется что-то накидать по-быстрому,  поэкспериментировать.. Править для каждого такого случая main.asm в движке не совсем удобно. Как раз для таких случаев сделал заготовку-*boilerplate* для **Visual Studio Code** в качестве IDE.
