@@ -7,9 +7,15 @@ permalink: /links/
 
 ![Сдвиги]({{ site.baseurl }}/images/shifts.png)
 
-wiki по asm z80: [http://z80-heaven.wikidot.com/](http://z80-heaven.wikidot.com/)
-
 коды команд z80: [http://clrhome.org/table/](http://clrhome.org/table/)
+
+### Видеолекции
+
+[Лекции от Музея Яндекс](https://www.youtube.com/playlist?list=PLJOzdkh8T5kpCWuMQYwFRvcnEn9rQ80ek)
+
+
+[Канал Сергея Смирнова](https://www.youtube.com/@SergeiSmirnov/)
+
 
 ### Эмуляторы
 
