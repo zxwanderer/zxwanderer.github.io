@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Cell 3326
-permalink: /cell3326/
-typora-root-url: ../zxwanderer.github.io
+permalink: /cell3326-game/
 ---
 
 ![Тестовый уровень](/images/cell3326.png)

@@ -2,7 +2,6 @@
 layout: page
 title: Погружение в spectrum
 permalink: /about/
-typora-root-url: ../zxwanderer.github.io
 ---
 
 ### Спектрумисты сейчас

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Мысли об организации карты
-typora-root-url: ../../zxwanderer.github.io
 ---
 
 Большинство позаимствовал из способов организации карты и предметов в LaserSquad.
