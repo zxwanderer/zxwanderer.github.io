@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cell 3326
-permalink: /cell3326-game/
+permalink: /cell3326/
 ---
 
 ![Тестовый уровень](/images/cell3326.png)
