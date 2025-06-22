@@ -11,6 +11,8 @@
         },
         onReady: function() {
           Module.ccall("OpenFile", null, ["string"], [path]);
+          Module.ccall("OnCommand", null, ["string"], ["filtering=off"]);
+          Module.ccall("OnCommand", null, ["string"], ["zoom=fill screen"]);
         },
         canvas: (function() {
           const canv = document.getElementById("canvas")
