@@ -14,7 +14,7 @@ aspect-ratio: 256 / 192;
 "></canvas>
 <div id="buttonFullScreen" style="visibility: hidden">
   <button name="buttonFullScreen" onclick="document.querySelector('canvas').requestFullscreen()">Fullscreen game</button>
-<-- нажать сюда чтобы развернуть игру на полный экран. Для перехода обратно нажмите Esc.
+<-- развернуть игру на полный экран. Для перехода обратно нажмите Esc.
 </div>
 </div>
 
