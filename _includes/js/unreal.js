@@ -6,12 +6,12 @@
         preRun: [],
         postRun: [],
         onInit: function() {
-          Module.ccall("OnCommand", null, ["string"], ["filtering=off"]);
+          Module.ccall("OnCommand", null, ["string"], ["filtering=on"]);
           Module.ccall("OnCommand", null, ["string"], ["zoom=fill screen"]);
         },
         onReady: function() {
           Module.ccall("OpenFile", null, ["string"], [path]);
-          Module.ccall("OnCommand", null, ["string"], ["filtering=off"]);
+          Module.ccall("OnCommand", null, ["string"], ["filtering=on"]);
           Module.ccall("OnCommand", null, ["string"], ["zoom=fill screen"]);
         },
         canvas: (function() {
