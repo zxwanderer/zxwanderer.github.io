@@ -26,11 +26,10 @@
       document.body.appendChild(inject);
     }
     document.getElementById("canvas").style.display = "block";
-    // document.getElementById("canvas").style.width = "100%";
+    document.getElementById("canvas").style.width = "100%";
     document.querySelector('canvas').focus();
     document.getElementById("buttonFullScreen").style.visibility = "visible";
     document.getElementById("buttonRun").style.visibility = "hidden";
-
   }
 }
 </script>
