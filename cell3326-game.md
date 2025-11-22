@@ -8,11 +8,13 @@ permalink: /cell3326/
 
 Завязка игры стандартная - герой игры просыпается в камере и ничего не помнит.
 
-[Скачать trd-версию]({{ site.baseurl }}/release/cell3326.trd)
+[Играть онлайн]({{ site.baseurl }}/cell3326-rvm/) через Retro Virtual Player
 
-[Скачать tape-версию]({{ site.baseurl }}/release/cell3326.tap)
+[Играть онлайн]({{ site.baseurl }}/cell3326-online/) через Unreal Speccy Portable
 
-[Играть онлайн]({{ site.baseurl }}/cell3326-online/)
+[Скачать trd-версию]({{ site.baseurl }}/release/cell3326.trd) (для игры требуется эмулятор)
+
+[Скачать tape-версию]({{ site.baseurl }}/release/cell3326.tap) (для игры требуется эмулятор)
 
 #### Управление:
 

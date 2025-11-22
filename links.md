@@ -43,5 +43,8 @@ permalink: /links/
 
 ### Программы для разработки
 
+[asm80.com](https://www.asm80.com/) Онлайн компилятор
+[8bitworkshop](https://8bitworkshop.com/) Онлайн компилятор для множества платформ 
+
 [ZX-Modules](https://www.spectrumforeveryone.co.uk/technical/zx-modules-software/) - пакет программ для редактирования блоков отгрузки,
 zx-paintbrush для импорта и рисования графики.
