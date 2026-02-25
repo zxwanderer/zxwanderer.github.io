@@ -1,0 +1,3 @@
+[submodule "ext/ZX-M8XXX"]
+	path = ext/ZX-M8XXX
+	url = https://github.com/zxwanderer/ZX-M8XXX
